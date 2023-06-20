@@ -17,3 +17,7 @@ body {
   color: #2e363e;
   font-family: "Playfair", serif;
 }
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
+}
