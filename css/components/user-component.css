@@ -1,6 +1,10 @@
 .user-component {
   /* display: flex; */
   justify-content: space-between;
+  margin-bottom: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 10px;
 }
 .user-component,
 .user-component__column:first-child {
