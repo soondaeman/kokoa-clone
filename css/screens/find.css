@@ -101,3 +101,8 @@
   margin-left: 3px;
   margin-left: 5px;
 }
+
+.find-header__icons {
+  display: flex;
+  gap: 20px;
+}
